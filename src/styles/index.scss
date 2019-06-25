@@ -21,10 +21,34 @@
     margin: 0 auto;
 }
 .container{
-    width: 90px;
-    height: 250px;
+    width: 100px;
+    height: 270px;
     background:black;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+}
+.red-light{
+    background: red;
+    height: 75px;
+    width: 80px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.yellow-light{
+    background:yellow;
+    height: 75px;
+    width: 80px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.green-light{
+    background:green;
+    height: 75px;
+    width: 80px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
